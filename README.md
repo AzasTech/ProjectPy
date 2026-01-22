@@ -14,3 +14,7 @@ A Python script that automatically detects all drives on your system, lets you p
 - Works on Windows
 
 ---
+
+## How to Run
+```bash
+python disk_checker.py
